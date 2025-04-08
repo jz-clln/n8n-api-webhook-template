@@ -4,13 +4,7 @@ A curated collection of n8n workflows organized by category. Each workflow is do
 
 ## Categories
 
-- **Data Integration**: Workflows for moving and syncing data between different systems
-- **Data Transformation**: Workflows for converting data between formats and structures
-- **Automation**: General automation workflows for various tasks
 - **API & Webhooks**: Workflows for API integrations and webhook handling
-- **Document Processing**: Workflows for handling documents and files
-- **Communication**: Workflows for messaging, notifications, and alerts
-- **Analytics**: Workflows for data analysis and reporting
 
 ## Structure
 
